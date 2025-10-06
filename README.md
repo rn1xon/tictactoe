@@ -8,3 +8,9 @@ If I had more time, then I would...
 - more error handling
 - better console display
 - better file/code organization & readability 
+
+How to play?
+- clone the repository
+- ensure that you have all things necessary to run java
+- run code
+- play in console :)
