@@ -9,6 +9,7 @@ If I had more time, then I would...
 - better console display
 - better file/code organization & readability 
 
+
 How to play?
 - clone the repository
 - ensure that you have all things necessary to run java
